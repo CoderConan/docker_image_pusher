@@ -26,3 +26,4 @@ skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.0
 skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.0
 phpswoole/swoole:4.3.6-php7.1
 cloudflare/cloudflared:2024.12.2
+yidadaa/chatgpt-next-web:v2.15.8
