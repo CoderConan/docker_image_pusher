@@ -20,10 +20,8 @@ prom/alertmanager:v0.23.0
 prom/prometheus:v2.39.1
 public.ecr.aws/docker/library/redis:7.0.13-alpine
 quay.io/argoproj/argocd:v2.9.1
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
-skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.0
-skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.0
+skywalking.docker.scarf.sh/apache/skywalking-ui:10.1.0
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.1.0
 phpswoole/swoole:4.3.6-php7.1
 cloudflare/cloudflared:2024.12.2
 yidadaa/chatgpt-next-web:v2.15.8
